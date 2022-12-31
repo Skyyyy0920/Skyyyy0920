@@ -38,7 +38,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Skyyyy0920/count.s
 <br/>  
 
 
-## My Skill Set  
+# My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -88,7 +88,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Skyyyy0920/count.s
 
 
 
-## Connect with me  
+# Connect with me  
 <div align="left">
 <a href="https://github.com/Skyyyy0920" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
