@@ -7,9 +7,9 @@
 
 <br/>
 
-- 🍒  A person who love doing cool things.
+- 🍒  A person who love cool things.
 - 👨‍🎓  Undergraduate at Nankai University.
-- 📍  Tian Jin.
+- 📍  Tianjin.
 - 📧  [huangtianhao0920@126.com](mailto:huangtianhao0920@126.com).
 <!-- - 👩‍💻  work.
 - 🎖️  Prize. -->
@@ -107,23 +107,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Skyyyy0920/count.s
 <br/>  
 
 
-
-
-
-
-
-
-<!--
-**Skyyyy0920/Skyyyy0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+profile code from https://github.com/hqwlkj/hqwlkj
