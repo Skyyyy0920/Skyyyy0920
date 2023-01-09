@@ -10,7 +10,7 @@
 - 🍒  A person who love cool things.
 - 👨‍🎓  Undergraduate at Nankai University.
 - 📍  Tianjin.
-- 📧  [huangtianhao0920@126.com](mailto:huangtianhao0920@126.com).
+- 📧  [tianhao.huang0920@gmail.com](mailto:tianhao.huang0920@gmail.com).
 <!-- - 👩‍💻  work.
 - 🎖️  Prize. -->
 
