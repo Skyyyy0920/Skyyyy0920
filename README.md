@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🍒  A person who love cool things.
+- 🍒  I Love Fantasy.
 - 👨‍🎓  Undergraduate at Nankai University.
 - 📍  Tianjin.
 - 📧  [tianhao.alex.huang@gmail.com](mailto:tianhao.alex.huang@gmail.com).
