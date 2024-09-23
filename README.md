@@ -8,7 +8,7 @@
 <br/>
 
 - 🍒  Work hard.
-- 👨‍🎓  Pursuing a PhD at Arizona State University. Undergraduate at Nankai University.
+- 👨‍🎓  Pursuing a PhD at Arizona State University. Obtained a bachelor's degree in Nankai University.
 - 📍  Tempe.
 - 📧  [tianhao.alex.huang@gmail.com](mailto:tianhao.alex.huang@gmail.com).
 <!-- - 👩‍💻  work.
