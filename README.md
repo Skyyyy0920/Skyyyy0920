@@ -8,8 +8,8 @@
 <br/>
 
 - 🍒  Work hard.
-- 👨‍🎓  Pursuing a PhD at Arizona State University. Obtained a bachelor's degree in Nankai University.
-- 📍  Tempe.
+- 👨‍🎓  Pursuing a PhD at University of Virginia. Obtained a bachelor's degree in Nankai University.
+- 📍  Charlottesville.
 - 📧  [tianhao.alex.huang@gmail.com](mailto:tianhao.alex.huang@gmail.com).
 <!-- - 👩‍💻  work.
 - 🎖️  Prize. -->
